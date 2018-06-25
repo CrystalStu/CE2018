@@ -1,0 +1,20 @@
+Crystal Git: https://git.cstu.gq
+MinGW installer: https://sourceforge.net/projects/mingw/files/latest/download?source=files
+MinGW-w64 installer: https://sourceforge.net/projects/mingw-w64/files/latest/download
+Dev-C++ installer(include MinGW): https://sourceforge.net/projects/orwelldevcpp/files/latest/download
+GUIDE executable file: http://www.noi.cn/guide-10
+Visual Studio IDE: https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15
+Visual Studio Code: https://code.visualstudio.com/docs?dv=win&wt.mc_id=DX_841432&sku=codewin
+Atom Editor: https://atom.io/download/windows_x64
+Geany: http://download.geany.org/geany-1.33_setup.exe
+Anjuta: https://download.gnome.org/sources/anjuta/3.18/
+Unity Editor: https://store.unity.com/download?ref=personal
+JetBrains Toolbox: https://www.jetbrains.com/toolbox/download/download-thanks.html
+MonoDevelop: http://www.monodevelop.com/download/
+NetBeans: https://netbeans.org/downloads/
+Windows: https://windows.com
+Windows 10 Get Online: https://support.microsoft.com/en-us/help/17164/windows-10-get-online
+Windows 10 Fix Wi-Fi Problems: https://support.microsoft.com/en-us/help/4000432/windows-10-fix-wi-fi-problems
+Windows Fix Network Connection Issues: https://support.microsoft.com/en-us/help/10741/windows-fix-network-connection-issues
+Windows Support: https://support.microsoft.com/windows
+Ubuntu: https://ubuntu.com
